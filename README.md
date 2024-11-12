@@ -106,6 +106,3 @@ apscheduler==3.x.x    # Replace with your APScheduler version
 flask-cors==3.x.x     # Replace with your Flask-CORS version
 flasgger==0.x.x       # Replace with your Flasgger version (if used)
 
-You can find out the versions of installed packages by running:
-bash
-pip freeze > requirements.txt
