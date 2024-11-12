@@ -47,7 +47,7 @@ GET http://localhost:5006/api/forex-data?from=GBP&to=INR&period=1M
 
 ### Example Response
 
-```json
+
 [
     {"Date": "2024-01-01", "Close": 75.0},
     {"Date": "2024-01-02", "Close": 76.0}
@@ -109,4 +109,3 @@ flasgger==0.x.x       # Replace with your Flasgger version (if used)
 You can find out the versions of installed packages by running:
 bash
 pip freeze > requirements.txt
-
