@@ -66,9 +66,9 @@ Create folders in your project directory to organize files better:
 - Create a folder named `static` for JavaScript file.
 - Create a folder named `templates` for HTML file.
 
-Your directory structure should look like this:
+### Your directory structure should look like this:
 
-your-project 
+**your-project** 
 - /static # For static files (CSS, JS) --> script.js # Your JavaScript file (move here)
 - /templates # For HTML templates (if using Flask's rendering) --> index.html # Your main HTML file (move here)
 - app.py # Main application file
